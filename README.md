@@ -6,3 +6,5 @@ Một số phần mềm hỗ trợ làm bài tập:
 <a href="https://visualstudio.microsoft.com/vs/express">1. Visual Studio Express</a>
 <br/>
 <a href="https://notepad-plus-plus.org/download/v7.5.8.html">2. Notpad plus plus</a>
+<br/><br/>
+Các bài tập minh họa trên lớp cũng sẽ được cập nhật tại đây trong mục bàit tập.
