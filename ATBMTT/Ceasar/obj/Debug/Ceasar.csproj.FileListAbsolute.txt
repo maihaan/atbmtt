@@ -1,0 +1,7 @@
+D:\Projects\ATBMTTK61\ATBMTT\Ceasar\bin\Debug\Ceasar.exe
+D:\Projects\ATBMTTK61\ATBMTT\Ceasar\bin\Debug\Ceasar.pdb
+D:\Projects\ATBMTTK61\ATBMTT\Ceasar\obj\Debug\Ceasar.Form1.resources
+D:\Projects\ATBMTTK61\ATBMTT\Ceasar\obj\Debug\Ceasar.Properties.Resources.resources
+D:\Projects\ATBMTTK61\ATBMTT\Ceasar\obj\Debug\Ceasar.csproj.GenerateResource.Cache
+D:\Projects\ATBMTTK61\ATBMTT\Ceasar\obj\Debug\Ceasar.exe
+D:\Projects\ATBMTTK61\ATBMTT\Ceasar\obj\Debug\Ceasar.pdb
