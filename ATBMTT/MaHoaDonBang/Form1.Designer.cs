@@ -73,6 +73,7 @@
             this.btGiaiMa.TabIndex = 5;
             this.btGiaiMa.Text = "Giải mã";
             this.btGiaiMa.UseVisualStyleBackColor = true;
+            this.btGiaiMa.Click += new System.EventHandler(this.btGiaiMa_Click);
             // 
             // tbDuLieuMaHoaDuoc
             // 

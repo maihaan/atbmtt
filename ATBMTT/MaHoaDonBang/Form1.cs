@@ -87,5 +87,46 @@ namespace MaHoaDonBang
                 dem++;
             }
         }
+
+        private void btGiaiMa_Click(object sender, EventArgs e)
+        {
+            // Kiem tra du lieu can ma hoa
+            if (tbDuLieuMaHoaDuoc.Text.Length == 0)
+            {
+                MessageBox.Show("Chưa có gì để giải mã");
+                tbDuLieuCanMaHoa.Focus();
+                return;
+            }
+
+            // Duyet tung ky tu trong doan van ban can ma hoa
+            String duLieuCanGiaiMa = tbDuLieuMaHoaDuoc.Text;
+            String ketQuaGiaiMa = "";
+            for (int i = 0; i < tbDuLieuMaHoaDuoc.Text.Length; i++)
+            {
+                char kyTuCanMa = duLieuCanGiaiMa[i];
+                // Ma hoa tung ky tu duoc duyet
+                // - Tim vi tri cua ky tu trong khoa
+                int viTri = -1;
+                for (int j = 0; j < khoa.Length; j++)
+                {
+                    if (khoa[j].Equals(kyTuCanMa))
+                    {
+                        viTri = j;
+                        break;
+                    }
+                }
+                // - Tra bang chu cai neu tim thay, khong tim thay thi giu nguyen
+                if (viTri == -1)
+                {
+                    ketQuaGiaiMa += kyTuCanMa;
+                }
+                else
+                {
+                    ketQuaGiaiMa += bangChuCai[viTri];
+                }
+            }
+            // Hien thi ket qua ma hoa
+            tbDuLieuGiaiMaDuoc.Text = ketQuaGiaiMa;
+        }
     }
 }

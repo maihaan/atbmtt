@@ -1,0 +1,8 @@
+D:\Projects\ATBMTTK61\ATBMTT\ImageResize\bin\Debug\ImageResize.exe
+D:\Projects\ATBMTTK61\ATBMTT\ImageResize\bin\Debug\ImageResize.pdb
+D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.Form1.resources
+D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.Properties.Resources.resources
+D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.csproj.GenerateResource.Cache
+D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.exe
+D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.pdb
+D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.csprojResolveAssemblyReference.cache

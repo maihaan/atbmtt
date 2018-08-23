@@ -66,6 +66,7 @@
             this.btGiaiMa.TabIndex = 13;
             this.btGiaiMa.Text = "Giải mã";
             this.btGiaiMa.UseVisualStyleBackColor = true;
+            this.btGiaiMa.Click += new System.EventHandler(this.btGiaiMa_Click);
             // 
             // tbDuLieuMaHoaDuoc
             // 
@@ -146,6 +147,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

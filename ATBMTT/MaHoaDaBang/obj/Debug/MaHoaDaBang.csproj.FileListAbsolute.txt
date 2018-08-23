@@ -1,8 +1,8 @@
 D:\Projects\ATBMTTK61\ATBMTT\MaHoaDaBang\bin\Debug\MaHoaDaBang.exe
 D:\Projects\ATBMTTK61\ATBMTT\MaHoaDaBang\bin\Debug\MaHoaDaBang.pdb
-D:\Projects\ATBMTTK61\ATBMTT\MaHoaDaBang\obj\Debug\MaHoaDaBang.csprojResolveAssemblyReference.cache
 D:\Projects\ATBMTTK61\ATBMTT\MaHoaDaBang\obj\Debug\MaHoaDaBang.Form1.resources
 D:\Projects\ATBMTTK61\ATBMTT\MaHoaDaBang\obj\Debug\MaHoaDaBang.Properties.Resources.resources
 D:\Projects\ATBMTTK61\ATBMTT\MaHoaDaBang\obj\Debug\MaHoaDaBang.csproj.GenerateResource.Cache
 D:\Projects\ATBMTTK61\ATBMTT\MaHoaDaBang\obj\Debug\MaHoaDaBang.exe
 D:\Projects\ATBMTTK61\ATBMTT\MaHoaDaBang\obj\Debug\MaHoaDaBang.pdb
+D:\Projects\ATBMTTK61\ATBMTT\MaHoaDaBang\obj\Debug\MaHoaDaBang.csprojResolveAssemblyReference.cache
