@@ -34,15 +34,50 @@ namespace MaHoaDaBang
             // Sinh khoa tu mat khau
             String matKhau = tbMatKhau.Text.Trim();
             String khoa = "";
-            int doDaiMatKhau = tbDuLieuCanMaHoa.Text.Length;
-            for (int i = 0; i < doDaiMatKhau; i++)
-                khoa += matKhau[i % doDaiMatKhau];
+            int doDaiKhoa = tbDuLieuCanMaHoa.Text.Length;
+            for (int i = 0; i < doDaiKhoa; i++)
+                khoa += matKhau[i % matKhau.Length];
 
-            // 
+            // Mã hóa dữ liệu
+            String duLieuCanMaHoa = tbDuLieuCanMaHoa.Text;
+            String ketQuaMaHoa = "";
+            for (int i = 0; i < duLieuCanMaHoa.Length; i++)
+            {
+                Char kyTuCanMa = duLieuCanMaHoa[i];
+                Char kyTuKhoa = khoa[i];
+                // Quy tac ma hoa: kyTuCanMa dung de tra theo cot, kyTuKhoa: dung de tra theo hang
+                int viTriKyTu = -1, viTriKhoa = -1;
+                // Tim vi tri cua ky tu can ma va ky tu khoa trong bang chu cai
+                for (int j = 0; j < bangChuCai.Length; j++)
+                {
+                    if (bangChuCai[j].Equals(kyTuCanMa))
+                    {
+                        viTriKyTu = j;
+                        break;
+                    }
+                }
+                for (int j = 0; j < bangChuCai.Length; j++)
+                {
+                    if (bangChuCai[j].Equals(kyTuKhoa))
+                    {
+                        viTriKhoa = j;
+                        break;
+                    }
+                }
+                if (viTriKyTu != -1 && viTriKhoa != -1)
+                {
+                    ketQuaMaHoa += bangTra[viTriKhoa, viTriKyTu];
+                }
+                else
+                    ketQuaMaHoa += kyTuCanMa;
+            }
+            tbDuLieuMaHoaDuoc.Text = ketQuaMaHoa;
         }
+
 
         private void btGiaiMa_Click(object sender, EventArgs e)
         {
+            // Giai ma: KyTuDaMaHoa: dung de tra theo cot, kyTuKhoa: dung de tra theo hang
 
         }
 

@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaHoaDaBang", "MaHoaDaBang\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResize", "ImageResize\ImageResize.csproj", "{0EF70F4D-BDE3-47EE-8DDD-872A67E0FBD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneTimePad", "OneTimePad\OneTimePad.csproj", "{DA6835A8-A0D6-4922-9D8C-8FC3347CC533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAccess", "FileAccess\FileAccess.csproj", "{8DDF40D4-113C-43E7-A1E2-96CF390A79D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{0EF70F4D-BDE3-47EE-8DDD-872A67E0FBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EF70F4D-BDE3-47EE-8DDD-872A67E0FBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EF70F4D-BDE3-47EE-8DDD-872A67E0FBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6835A8-A0D6-4922-9D8C-8FC3347CC533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6835A8-A0D6-4922-9D8C-8FC3347CC533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6835A8-A0D6-4922-9D8C-8FC3347CC533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6835A8-A0D6-4922-9D8C-8FC3347CC533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDF40D4-113C-43E7-A1E2-96CF390A79D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDF40D4-113C-43E7-A1E2-96CF390A79D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDF40D4-113C-43E7-A1E2-96CF390A79D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDF40D4-113C-43E7-A1E2-96CF390A79D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
