@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneTimePad", "OneTimePad\On
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAccess", "FileAccess\FileAccess.csproj", "{8DDF40D4-113C-43E7-A1E2-96CF390A79D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileEncrypt", "FileEncrypt\FileEncrypt.csproj", "{08DE68A2-EAA0-4FC2-A439-0A240DACB28D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8DDF40D4-113C-43E7-A1E2-96CF390A79D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DDF40D4-113C-43E7-A1E2-96CF390A79D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DDF40D4-113C-43E7-A1E2-96CF390A79D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08DE68A2-EAA0-4FC2-A439-0A240DACB28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DE68A2-EAA0-4FC2-A439-0A240DACB28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DE68A2-EAA0-4FC2-A439-0A240DACB28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DE68A2-EAA0-4FC2-A439-0A240DACB28D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
