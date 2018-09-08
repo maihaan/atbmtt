@@ -8,3 +8,5 @@ Một số phần mềm hỗ trợ làm bài tập:
 <a href="https://notepad-plus-plus.org/download/v7.5.8.html">2. Notpad plus plus</a>
 <br/><br/>
 Các bài tập minh họa trên lớp cũng sẽ được cập nhật tại đây trong mục bàit tập.
+Video minh họa các bài tập xem tại đây:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CFfjZfkciQQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
