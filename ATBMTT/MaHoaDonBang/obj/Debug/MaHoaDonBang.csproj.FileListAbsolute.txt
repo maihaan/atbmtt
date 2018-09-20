@@ -5,4 +5,3 @@ D:\Projects\ATBMTTK61\ATBMTT\MaHoaDonBang\obj\Debug\MaHoaDonBang.Properties.Reso
 D:\Projects\ATBMTTK61\ATBMTT\MaHoaDonBang\obj\Debug\MaHoaDonBang.csproj.GenerateResource.Cache
 D:\Projects\ATBMTTK61\ATBMTT\MaHoaDonBang\obj\Debug\MaHoaDonBang.exe
 D:\Projects\ATBMTTK61\ATBMTT\MaHoaDonBang\obj\Debug\MaHoaDonBang.pdb
-D:\Projects\ATBMTTK61\ATBMTT\MaHoaDonBang\obj\Debug\MaHoaDonBang.csprojResolveAssemblyReference.cache

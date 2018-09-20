@@ -1,0 +1,5 @@
+﻿Mã hóa	Encrypt
+Giải mã	Decrypt
+Chọn tệp tin	Choose file
+Tìm	Browse
+Thực hiện	Execute

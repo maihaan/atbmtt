@@ -5,4 +5,3 @@ D:\Projects\ATBMTTK61\ATBMTT\Ceasar\obj\Debug\Ceasar.Properties.Resources.resour
 D:\Projects\ATBMTTK61\ATBMTT\Ceasar\obj\Debug\Ceasar.csproj.GenerateResource.Cache
 D:\Projects\ATBMTTK61\ATBMTT\Ceasar\obj\Debug\Ceasar.exe
 D:\Projects\ATBMTTK61\ATBMTT\Ceasar\obj\Debug\Ceasar.pdb
-D:\Projects\ATBMTTK61\ATBMTT\Ceasar\obj\Debug\Ceasar.csprojResolveAssemblyReference.cache

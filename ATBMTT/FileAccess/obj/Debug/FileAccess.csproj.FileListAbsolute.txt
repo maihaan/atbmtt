@@ -1,6 +1,5 @@
 D:\Projects\ATBMTTK61\ATBMTT\FileAccess\bin\Debug\FileAccess.exe
 D:\Projects\ATBMTTK61\ATBMTT\FileAccess\bin\Debug\FileAccess.pdb
-D:\Projects\ATBMTTK61\ATBMTT\FileAccess\obj\Debug\FileAccess.csprojResolveAssemblyReference.cache
 D:\Projects\ATBMTTK61\ATBMTT\FileAccess\obj\Debug\FileAccess.Form1.resources
 D:\Projects\ATBMTTK61\ATBMTT\FileAccess\obj\Debug\FileAccess.Properties.Resources.resources
 D:\Projects\ATBMTTK61\ATBMTT\FileAccess\obj\Debug\FileAccess.csproj.GenerateResource.Cache
