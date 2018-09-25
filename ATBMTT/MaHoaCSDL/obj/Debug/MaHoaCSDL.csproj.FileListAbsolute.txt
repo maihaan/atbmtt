@@ -1,0 +1,7 @@
+D:\Projects\ATBMTTK61\ATBMTT\MaHoaCSDL\bin\Debug\MaHoaCSDL.exe
+D:\Projects\ATBMTTK61\ATBMTT\MaHoaCSDL\bin\Debug\MaHoaCSDL.pdb
+D:\Projects\ATBMTTK61\ATBMTT\MaHoaCSDL\obj\Debug\MaHoaCSDL.Form1.resources
+D:\Projects\ATBMTTK61\ATBMTT\MaHoaCSDL\obj\Debug\MaHoaCSDL.Properties.Resources.resources
+D:\Projects\ATBMTTK61\ATBMTT\MaHoaCSDL\obj\Debug\MaHoaCSDL.csproj.GenerateResource.Cache
+D:\Projects\ATBMTTK61\ATBMTT\MaHoaCSDL\obj\Debug\MaHoaCSDL.exe
+D:\Projects\ATBMTTK61\ATBMTT\MaHoaCSDL\obj\Debug\MaHoaCSDL.pdb

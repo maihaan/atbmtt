@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5", "MD5\MD5.csproj", "{6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAFileEncrypt", "RSAFileEncrypt\RSAFileEncrypt.csproj", "{130C7FB1-0D89-455E-BAE0-F5828BE3B793}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5App", "MD5App\MD5App.csproj", "{69670ECC-2F06-4A20-BE7B-0A5063E8BE5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaHoaCSDL", "MaHoaCSDL\MaHoaCSDL.csproj", "{0C57BEC7-4787-4401-9016-5F37C6EC533D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{130C7FB1-0D89-455E-BAE0-F5828BE3B793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{130C7FB1-0D89-455E-BAE0-F5828BE3B793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{130C7FB1-0D89-455E-BAE0-F5828BE3B793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69670ECC-2F06-4A20-BE7B-0A5063E8BE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69670ECC-2F06-4A20-BE7B-0A5063E8BE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69670ECC-2F06-4A20-BE7B-0A5063E8BE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69670ECC-2F06-4A20-BE7B-0A5063E8BE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C57BEC7-4787-4401-9016-5F37C6EC533D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C57BEC7-4787-4401-9016-5F37C6EC533D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C57BEC7-4787-4401-9016-5F37C6EC533D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C57BEC7-4787-4401-9016-5F37C6EC533D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
