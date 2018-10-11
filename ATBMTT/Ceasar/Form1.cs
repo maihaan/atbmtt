@@ -12,7 +12,7 @@ namespace Ceasar
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();            
         }
 
         // Bang chu cai

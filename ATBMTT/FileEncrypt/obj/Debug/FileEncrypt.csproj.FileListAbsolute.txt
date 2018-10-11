@@ -5,3 +5,4 @@ D:\Projects\ATBMTTK61\ATBMTT\FileEncrypt\obj\Debug\FileEncrypt.Properties.Resour
 D:\Projects\ATBMTTK61\ATBMTT\FileEncrypt\obj\Debug\FileEncrypt.csproj.GenerateResource.Cache
 D:\Projects\ATBMTTK61\ATBMTT\FileEncrypt\obj\Debug\FileEncrypt.exe
 D:\Projects\ATBMTTK61\ATBMTT\FileEncrypt\obj\Debug\FileEncrypt.pdb
+D:\Projects\ATBMTTK61\ATBMTT\FileEncrypt\obj\Debug\FileEncrypt.csprojResolveAssemblyReference.cache

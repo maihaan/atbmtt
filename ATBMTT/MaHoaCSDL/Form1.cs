@@ -24,7 +24,7 @@ namespace MaHoaCSDL
 
         }
 
-        String chuoiKN = "Data Source = .\\MSSQL; Initial Catalog = MaHoaDB; User Id = Demo; Password =  12345678;";
+        String chuoiKN = "Data Source = .\\MSSQL; Initial Catalog = MaHoaDB; User Id = uDemo; Password = @M123456;";
 
         public DataTable Doc(String cauLenhSQL)
         {

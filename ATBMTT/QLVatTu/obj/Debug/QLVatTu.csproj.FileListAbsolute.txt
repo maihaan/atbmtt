@@ -1,0 +1,7 @@
+D:\Projects\ATBMTTK61\ATBMTT\QLVatTu\bin\Debug\QLVatTu.exe
+D:\Projects\ATBMTTK61\ATBMTT\QLVatTu\bin\Debug\QLVatTu.pdb
+D:\Projects\ATBMTTK61\ATBMTT\QLVatTu\obj\Debug\QLVatTu.Form1.resources
+D:\Projects\ATBMTTK61\ATBMTT\QLVatTu\obj\Debug\QLVatTu.Properties.Resources.resources
+D:\Projects\ATBMTTK61\ATBMTT\QLVatTu\obj\Debug\QLVatTu.csproj.GenerateResource.Cache
+D:\Projects\ATBMTTK61\ATBMTT\QLVatTu\obj\Debug\QLVatTu.exe
+D:\Projects\ATBMTTK61\ATBMTT\QLVatTu\obj\Debug\QLVatTu.pdb

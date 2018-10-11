@@ -5,3 +5,4 @@ D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.Properties.Resour
 D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.csproj.GenerateResource.Cache
 D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.exe
 D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.pdb
+D:\Projects\ATBMTTK61\ATBMTT\ImageResize\obj\Debug\ImageResize.csprojResolveAssemblyReference.cache

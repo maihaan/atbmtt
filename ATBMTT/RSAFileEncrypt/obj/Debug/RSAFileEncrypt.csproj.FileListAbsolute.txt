@@ -7,3 +7,4 @@ D:\Projects\ATBMTTK61\ATBMTT\RSAFileEncrypt\obj\Debug\RSAFileEncrypt.Properties.
 D:\Projects\ATBMTTK61\ATBMTT\RSAFileEncrypt\obj\Debug\RSAFileEncrypt.csproj.GenerateResource.Cache
 D:\Projects\ATBMTTK61\ATBMTT\RSAFileEncrypt\obj\Debug\RSAFileEncrypt.exe
 D:\Projects\ATBMTTK61\ATBMTT\RSAFileEncrypt\obj\Debug\RSAFileEncrypt.pdb
+D:\Projects\ATBMTTK61\ATBMTT\RSAFileEncrypt\obj\Debug\RSAFileEncrypt.csprojResolveAssemblyReference.cache

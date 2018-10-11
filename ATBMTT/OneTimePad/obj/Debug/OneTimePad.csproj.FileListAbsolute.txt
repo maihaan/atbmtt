@@ -5,3 +5,4 @@ D:\Projects\ATBMTTK61\ATBMTT\OneTimePad\obj\Debug\OneTimePad.Properties.Resource
 D:\Projects\ATBMTTK61\ATBMTT\OneTimePad\obj\Debug\OneTimePad.csproj.GenerateResource.Cache
 D:\Projects\ATBMTTK61\ATBMTT\OneTimePad\obj\Debug\OneTimePad.exe
 D:\Projects\ATBMTTK61\ATBMTT\OneTimePad\obj\Debug\OneTimePad.pdb
+D:\Projects\ATBMTTK61\ATBMTT\OneTimePad\obj\Debug\OneTimePad.csprojResolveAssemblyReference.cache

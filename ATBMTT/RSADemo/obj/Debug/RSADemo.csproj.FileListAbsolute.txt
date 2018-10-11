@@ -6,3 +6,4 @@ D:\Projects\ATBMTTK61\ATBMTT\RSADemo\obj\Debug\RSADemo.Properties.Resources.reso
 D:\Projects\ATBMTTK61\ATBMTT\RSADemo\obj\Debug\RSADemo.csproj.GenerateResource.Cache
 D:\Projects\ATBMTTK61\ATBMTT\RSADemo\obj\Debug\RSADemo.exe
 D:\Projects\ATBMTTK61\ATBMTT\RSADemo\obj\Debug\RSADemo.pdb
+D:\Projects\ATBMTTK61\ATBMTT\RSADemo\obj\Debug\RSADemo.csprojResolveAssemblyReference.cache

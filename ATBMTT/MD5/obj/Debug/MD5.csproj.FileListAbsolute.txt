@@ -6,3 +6,4 @@ D:\Projects\ATBMTTK61\ATBMTT\MD5\obj\Debug\MD5.Properties.Resources.resources
 D:\Projects\ATBMTTK61\ATBMTT\MD5\obj\Debug\MD5.csproj.GenerateResource.Cache
 D:\Projects\ATBMTTK61\ATBMTT\MD5\obj\Debug\MD5.exe
 D:\Projects\ATBMTTK61\ATBMTT\MD5\obj\Debug\MD5.pdb
+D:\Projects\ATBMTTK61\ATBMTT\MD5\obj\Debug\MD5.csprojResolveAssemblyReference.cache
