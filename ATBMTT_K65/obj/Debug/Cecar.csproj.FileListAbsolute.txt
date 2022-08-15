@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Cecar\bin\Debug\Cecar.exe.config
+C:\Users\Admin\source\repos\Cecar\bin\Debug\Cecar.exe
+C:\Users\Admin\source\repos\Cecar\bin\Debug\Cecar.pdb
+C:\Users\Admin\source\repos\Cecar\obj\Debug\Cecar.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Cecar\obj\Debug\Cecar.Form1.resources
+C:\Users\Admin\source\repos\Cecar\obj\Debug\Cecar.Properties.Resources.resources
+C:\Users\Admin\source\repos\Cecar\obj\Debug\Cecar.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Cecar\obj\Debug\Cecar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cecar\obj\Debug\Cecar.exe
+C:\Users\Admin\source\repos\Cecar\obj\Debug\Cecar.pdb
