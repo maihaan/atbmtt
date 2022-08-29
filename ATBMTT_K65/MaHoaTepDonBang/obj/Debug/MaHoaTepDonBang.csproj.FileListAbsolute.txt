@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\MaHoaTepDonBang\obj\Debug\MaHoaTepDonBang.Form1.resources
+C:\Users\Admin\source\repos\MaHoaTepDonBang\obj\Debug\MaHoaTepDonBang.Properties.Resources.resources
+C:\Users\Admin\source\repos\MaHoaTepDonBang\obj\Debug\MaHoaTepDonBang.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MaHoaTepDonBang\obj\Debug\MaHoaTepDonBang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MaHoaTepDonBang\bin\Debug\MaHoaTepDonBang.exe.config
+C:\Users\Admin\source\repos\MaHoaTepDonBang\bin\Debug\MaHoaTepDonBang.exe
+C:\Users\Admin\source\repos\MaHoaTepDonBang\bin\Debug\MaHoaTepDonBang.pdb
+C:\Users\Admin\source\repos\MaHoaTepDonBang\obj\Debug\MaHoaTepDonBang.exe
+C:\Users\Admin\source\repos\MaHoaTepDonBang\obj\Debug\MaHoaTepDonBang.pdb
