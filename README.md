@@ -10,3 +10,4 @@ Một số phần mềm hỗ trợ làm bài tập:
 Các bài tập minh họa trên lớp cũng sẽ được cập nhật tại đây trong mục bàit tập.
 Video minh họa các bài tập xem tại đây: <a href="https://www.youtube.com/playlist?list=PL7QnRgf5BcSlGSLQrytwy1ObvgPnCew8g">Video hướng dẫn</a>
 
+bvm
